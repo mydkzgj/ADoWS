@@ -1,0 +1,5 @@
+pyinstaller -F -w --icon D:/Projects/WallDetection/software/labelImg-master/G/app.ico pre_labelImg2.py
+
+pyinstaller -F -w --icon D:/Projects/WallDetection/software/labelImg-master/G/app.ico pre_labelImg3.py
+
+pyinstaller -F -w --icon D:/ADoWS/software/labelImg-master/G/app.ico pre_labelImg4.py

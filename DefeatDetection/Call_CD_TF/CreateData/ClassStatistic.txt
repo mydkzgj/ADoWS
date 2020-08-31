@@ -1,0 +1,5 @@
+break 5 1
+crack 5 1
+rebar 5 1
+sundries 5 1
+normal 4 5

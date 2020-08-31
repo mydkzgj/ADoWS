@@ -1,0 +1,24 @@
+python pre_labelImg.py D:/myWork/clear/ 20181115412/20181115/1019/1/xml/1019_1_0_1_2018_20181127163317.XML 5Zac5rSL5rSL
+
+D:/Â¥Ãæ¼ì²â/labelImg-master/G/dist/pre_labelImg.exe D:/myWork/clear/ 20181115412/20181115/1019/1/xml/1019_1_0_1_2018_20181127163317.XML 5Zac5rSL5rSL
+
+D:/Â¥Ãæ¼ì²â/labelImg-master/G/dist/pre_labelImg.exe D:/myWork/clear/ 20181115412/20181115/1019/1/xml/1019_1_0_1_2018_20181127163317.XML 5Zac5rSL5rSL
+
+
+D:/Projects/WallDetection/software/labelImg-master/G/dist/pre_labelImg3.exe D:\myWork\clear\ 20181115412\20181115\1019\1\xml\1019_1_0_2_2019_20181127205735.XML 5Zac5rSL5rSL
+python D:/Projects/WallDetection/software/labelImg-master/pre_labelImg3.py D:\myWork\clear\ 20181115412\20181115\1019\1\xml\1019_1_0_2_2019_20181127205735.XML 5Zac5rSL5rSL
+D:/Projects/WallDetection/software/labelImg-master/G/dist/pre_labelImg3.exe D:\myWork\clear\ 20181115412\20181115\1019\1\xml\DSC00064_20181127205735.XML 5Zac5rSL5rSL
+python D:/Projects/WallDetection/software/labelImg-master/pre_labelImg3.py D:\myWork\clear\ 20181115412\20181115\1019\1\xml\DSC00064_20181127205735.XML 5Zac5rSL5rSL
+
+
+
+python pre_labelImg2.py D:/myWork/clear/ 20181115412/20181115/1019/1/xml/1019_1_0_1_2018_20181127163317.XML 5Zac5rSL5rSL D:/myWork/clear/ 20181115412/20181115/1019/1/xml/1019_1_0_2_2019_20181127205735.XML 5Zac5rSL5rSL
+
+D:/Projects/WallDetection/software/labelImg-master/G/dist/pre_labelImg4.exe D:/myWork/clear/ 20181115412/20181115/1019/1/xml/1019_1_0_1_2018_20181127163317.XML 5Zac5rSL5rSL D:/myWork/clear/ 20181115412/20181115/1019/1/xml/1019_1_0_2_2019_20181127205735.XML 5Zac5rSL5rSL
+
+
+python pre_labelImg2.py D:/myWork/clear/ 201902193880/20190219/1006/3/xml/1006_3_2_4_19700101080000_20190219144055.XML 5Zac5rSL5rSL D:/myWork/clear/ 20181115412/20181115/1019/1/xml/1019_1_0_2_2019_20181127205735.XML 5Zac5rSL5rSL
+
+python pre_labelImg2.py D:/myWork/clear/ 201902191795/20190219/1009/3/xml/1009_3_2_5_20190219150950_20190219154743.XML 5Zac5rSL5rSL D:/myWork/clear/ 20181115412/20181115/1019/1/xml/1019_1_0_2_2019_20181127205735.XML 5Zac5rSL5rSL
+
+python pre_labelImg2.py D:/myWork/clear/ 201902193880/20190219/1006/3/xml/1006_3_2_4_19700101080000_20190219144055.XML 5Zac5rSL5rSL D:/myWork/clear/ 20181115412/20181115/1019/1/xml/1019_1_0_2_2019_20181127205735.XML 5Zac5rSL5rSL
